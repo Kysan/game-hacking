@@ -1,0 +1,1 @@
+cl dllmain.cpp /EHsc /link /DLL /OUT:clinject.dll

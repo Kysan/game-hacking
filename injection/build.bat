@@ -1,0 +1,1 @@
+g++ .\dllmain.cpp .\hooks.hpp .\hooking.hpp -shared -m64 -fpermissive -o inject.dll
